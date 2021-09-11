@@ -152,9 +152,9 @@ function setup() {
     xsecund2[j] = 10
     ysecund2[j] = 200-(130*j)
   }
-  if(tela==1){
+  //if(tela==1){
     song.play()
-  }
+  //}
   
 }
 
