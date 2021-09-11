@@ -141,7 +141,7 @@ soundFormats('mp3')
 
 function setup() {
   createCanvas(500, 450);
-  
+  song.play()
   //Movimentação das nuvens secundárias
   for(i=0;i<2;i++){
     xsecund1[i] = 10
@@ -153,7 +153,7 @@ function setup() {
     ysecund2[j] = 200-(130*j)
   }
   //if(tela==1){
-    song.play()
+    
   //}
   
 }
