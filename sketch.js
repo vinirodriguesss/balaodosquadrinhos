@@ -362,21 +362,10 @@ function draw() {
     
        } 
       }
+      colision2 = collideRectRect(xbalao,ybalao,40,40,xnuvem3,ynuvem3,35,65);
     }
-    
-    //movimentação das nuvens secundarias para esquerda
-   for(i=0;i<2;i++){
-      xsecund1[i] = xsecund1[i] - (2 + (i*0.5))
-    if(xsecund1[i]<-150){
-      xsecund1[i] = 420
-      }
-    
-    }
-    
-    //Colisão segunda onomatopeia "TOC TOC"
-    
-    colision2 = collideRectRect(xbalao,ybalao,40,40,xnuvem3,ynuvem3,35,65);
-    
+     //Colisão segunda onomatopeia "TOC TOC"
+   
     if(colision2){
       contato2 = true
     }
@@ -388,6 +377,17 @@ function draw() {
     Text1 = "Parabéns, agora encontre a onomatopéia do som"+"\n"+"que o cachorro faz"
     
    } 
+    
+    //movimentação das nuvens secundarias para esquerda
+   for(i=0;i<2;i++){
+      xsecund1[i] = xsecund1[i] - (2 + (i*0.5))
+    if(xsecund1[i]<-150){
+      xsecund1[i] = 420
+      }
+    
+    }
+    
+ 
     
     if(ynuvem3 == -200){
      
