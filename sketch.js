@@ -65,7 +65,7 @@ var  Text1 = "Encontre a nuvem que representa a onomatopéia dos"+"\n"+"quadrinh
 
 var Text2 = "Crianças do 1°ano do ensino fundamental em diante."+"\n"+"\n"+"Disciplina: Português"
 
-var Text3 = "Objetivo do jogo - (EF15LP14)"+"\n"+"e"+"\n"+"como jogar:"+"\n"+"\n"+"Para aprender um pouco mais sobre o sentido"+"\n"+ "dos quadrinhos e gibis, use as setas do teclado"+"\n"+ "para movimentar o balão e encontrar as nuvens"+"\n"+"com as onomatopéias e os tipos de balões"+"\n"+ "que pedem no enunciado."
+var Text3 = "Objetivo do jogo - (EF15LP14)"+"\n"+"e"+"\n"+"como jogar:"+"\n"+"\n"+"Para aprender um pouco mais sobre o sentido"+"\n"+ "dos quadrinhos e gibis, use as setas do teclado"+"\n"+ "para movimentar o balão de ar e encontrar as nuvens"+"\n"+"com as onomatopéias e os tipos de balões"+"\n"+ "que pedem no enunciado."
 
 var Text4 = "Olá amiguinho, você sabe o que São onomatopéias?"+"\n"+"\n"+"\n"+"Onomatopéias são palavras que representam"+"\n"+ "os sons a nossa volta"+"\n"+ "como o de animais e ações que nós humanos realizamos"+"\n"+"\n"+"Para aprender um pouco mais sobre esse assunto"+"\n"+ "use as setas do teclado e faça o que o enuciado pede!"
 
